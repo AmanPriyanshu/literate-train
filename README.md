@@ -26,7 +26,7 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
-[Check my documentation]()
+[Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/discovering_symbolic_models_from_deep_learning_with_inductive_biases.md)
 
 
 
