@@ -6,7 +6,7 @@ Well, I have a guilty pleasure of reading papers but never making any records of
 ## Index:
 
 1. [Discovering Symbolic Models from Deep Learning with Inductive Biases](#discovering-symbolic-models-from-deep-learning-with-inductive-biases)
-2. [Auto-Keras: An Efficient Neural Architecture Search System](#auto-keras:-an-efficient-neural-architecture-search-system)
+2. [Auto-Keras: An Efficient Neural Architecture Search System](#auto-keras-an-efficient-neural-architecture-search-system)
 
 ### Discovering Symbolic Models from Deep Learning with Inductive Biases
 ```console
