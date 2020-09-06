@@ -6,6 +6,7 @@ Well, I have a guilty pleasure of reading papers but never making any records of
 ## Index:
 
 1. [Discovering Symbolic Models from Deep Learning with Inductive Biases](#discovering-symbolic-models-from-deep-learning-with-inductive-biases)
+2. [Auto-Keras: An Efficient Neural Architecture Search System](#auto-keras:_an_efficient_neural_architecture_search_system)
 
 ### Discovering Symbolic Models from Deep Learning with Inductive Biases
 ```console
@@ -28,6 +29,26 @@ archivePrefix = {arXiv},
 ```
 [Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/discovering_symbolic_models_from_deep_learning_with_inductive_biases.md)
 
+### Auto-Keras: An Efficient Neural Architecture Search System
+```console
+@ARTICLE{2018arXiv180610282J,
+       author = {{Jin}, Haifeng and {Song}, Qingquan and {Hu}, Xia},
+        title = "{Auto-Keras: An Efficient Neural Architecture Search System}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Machine Learning, Computer Science - Artificial Intelligence, Statistics - Machine Learning},
+         year = 2018,
+        month = jun,
+          eid = {arXiv:1806.10282},
+        pages = {arXiv:1806.10282},
+archivePrefix = {arXiv},
+       eprint = {1806.10282},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018arXiv180610282J},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+[Check my documentation]()
 
+<br>
 
 Credits for Name: GitHub Recommendation
