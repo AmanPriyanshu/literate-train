@@ -101,7 +101,7 @@ traditional Gaussian process (GP).
 The intuition behind the kernel function is the editdistance for morphing one neural architecture to another. More edits needed from one architecture to another means the further distance between them, thus less similar they are.
 
 ---
-![image.png]()
+![kernel-function.png](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/kernel-function.PNG)
 
 ---
 
@@ -112,7 +112,7 @@ distance in the new space. The new space is constructed by embedding the origina
 Theorem, which ensures the validity of the kernel.
 
 ---
-![image.png]()
+![distance.png](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/distance.PNG)
 
 ---
 
@@ -157,7 +157,7 @@ morphing the layers of two neural architectures fa and fb
 is calculated by minimizing the follow equation:
 
 ---
-![distance-layer-wise.png]()
+![distance-layer-wise.png](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/calculating-distance-layer-wise.PNG)
 
 ---
 where φl
@@ -176,7 +176,7 @@ all sorted in topological order. dl
 (·, ·) denotes the edit-distance of
 widening a layer into another defined in,
 
-![edit-distance]()
+![edit-distance](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/distance-edit-distance.PNG)
 
 To morph fa to fb with the given
 matching, we need to first widen the three nodes in fa to the same
@@ -193,7 +193,7 @@ dynamic programming approach by defining a matrix A|La |× |Lb |
 ,
 which is recursively calculated as follows:
 
-![distance-aij]()
+![distance-aij](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/distance-aij.PNG)
 
 where Ai,j
 is the minimum value of Dl
@@ -232,7 +232,7 @@ b
 
 Example Change:
 
-![example-change]()
+![example-change](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/example-change.PNG)
 
 #### Notes:
 
@@ -243,7 +243,7 @@ Well, I will be skipping the postulates for skipped connections as of now, inter
 Upper-confidence bound (UCB) is selected as our acquisition
 function, which is defined as:
 
-![UCB]()
+![UCB](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/UCB.PNG)
 
 where yf = Cost(f ,D), β is the balancing factor, µ(yf
 ) and σ(yf
@@ -286,7 +286,7 @@ search can be viewed as a tree-structured search, where each node
 is a neural architecture, whose children are morphed from it by
 network morphism operations.
 
-![Optmise-acquisition-function]()
+![Optmise-acquisition-function](https://github.com/AmanPriyanshu/literate-train/blob/master/images/Auto_Keras_An_Efficient_Neural_Architecture_Search_System/Optimize-Acquisition-Function.PNG)
 
 As shown in Algorithm 1, the algorithm takes minimum temperature Tlow , temperature decreasing rate r for simulated annealing, and search history H described in Section 2 as the input. It outputs a neural architecture f ∈ H and a sequence of operations O to morph f into the new architecture. From line 2 to 6, the searched architectures are pushed into the priority queue, which sorts the elements according to the cost function value or the acquisition
 function value. 
