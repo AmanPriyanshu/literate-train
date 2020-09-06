@@ -301,6 +301,8 @@ is a typical acceptance function in simulated annealing. cmin and fmin are updat
 from line 14 to 16, which record the minimum acquisition function
 value and the corresponding architecture.
 
+### 3. Graph-Level Network Morphism
+
 Follow the four network morphism operations on a neural network f ∈ F defined in, which can all be reflected in the change
 of the computational graph G.
 
@@ -311,5 +313,4 @@ representing the intermediate output tensor to be widened.
 3. s adding an additive connection from node u to
 node v denoted as add(G,u,v). 
 4. adding an concatenative connection from node u to node v denoted as concat(G,u,v).
-"""
 
