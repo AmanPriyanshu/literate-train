@@ -6,7 +6,8 @@ Well, I have a guilty pleasure of reading papers but never making any records of
 ## Index:
 
 1. [Discovering Symbolic Models from Deep Learning with Inductive Biases](#discovering-symbolic-models-from-deep-learning-with-inductive-biases)
-2. [Auto-Keras: An Efficient Neural Architecture Search System](#auto-keras-an-efficient-neural-architecture-search-system)
+2. [Adaptive DDoS Detector Design Using Fast Entropy Computation Method](#adaptive-ddos-detector-design-using-fast-entropy-computation-method)
+3. [Auto-Keras: An Efficient Neural Architecture Search System](#auto-keras-an-efficient-neural-architecture-search-system)
 
 ### Discovering Symbolic Models from Deep Learning with Inductive Biases
 ```console
@@ -28,6 +29,19 @@ archivePrefix = {arXiv},
 }
 ```
 [Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/discovering_symbolic_models_from_deep_learning_with_inductive_biases.md)
+
+### Adaptive DDoS Detector Design Using Fast Entropy Computation Method
+```console
+@INPROCEEDINGS{5976144,
+  author={G. {No} and I. {Ra}},
+  booktitle={2011 Fifth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing}, 
+  title={Adaptive DDoS Detector Design Using Fast Entropy Computation Method}, 
+  year={2011},
+  volume={},
+  number={},
+  pages={86-93},}
+```
+[Check my documentation]()
 
 ### Auto-Keras: An Efficient Neural Architecture Search System
 ```console
