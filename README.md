@@ -8,6 +8,7 @@ Well, I have a guilty pleasure of reading papers but never making any records of
 1. [Discovering Symbolic Models from Deep Learning with Inductive Biases](#discovering-symbolic-models-from-deep-learning-with-inductive-biases)
 2. [Adaptive DDoS Detector Design Using Fast Entropy Computation Method](#adaptive-ddos-detector-design-using-fast-entropy-computation-method)
 3. [Auto-Keras: An Efficient Neural Architecture Search System](#auto-keras-an-efficient-neural-architecture-search-system)
+4. [Communication-Efficient Learning of Deep Networks from Decentralized Data](Communication-Efficient-Learning-of-Deep-Networks-from-Decentralized-Data)
 
 ### Discovering Symbolic Models from Deep Learning with Inductive Biases
 ```console
@@ -63,6 +64,23 @@ archivePrefix = {arXiv},
 ```
 [Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/auto_keras_an_efficient_neural_architecture_search_system.md)
 
-<br>
+### Communication-Efficient-Learning-of-Deep-Networks-from-Decentralized-Data
 
-Credits for Name: GitHub Recommendation
+```console
+@ARTICLE{2016arXiv160205629B,
+       author = {{Brendan McMahan}, H. and {Moore}, Eider and {Ramage}, Daniel and {Hampson}, Seth and {Ag{\"u}era y Arcas}, Blaise},
+        title = "{Communication-Efficient Learning of Deep Networks from Decentralized Data}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Machine Learning},
+         year = 2016,
+        month = feb,
+          eid = {arXiv:1602.05629},
+        pages = {arXiv:1602.05629},
+archivePrefix = {arXiv},
+       eprint = {1602.05629},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016arXiv160205629B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+[Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/Communication_Efficient_Learning_of_Deep_Networks_from_Decentralized_Data.md)
