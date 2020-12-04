@@ -83,4 +83,4 @@ archivePrefix = {arXiv},
   number={},
   pages={86-93},}
 ```
-[Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/)
+[Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/adaptive_ddos_detector_design_using_fast_entropy_computation_method.md)
