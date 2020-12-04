@@ -31,19 +31,6 @@ archivePrefix = {arXiv},
 ```
 [Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/discovering_symbolic_models_from_deep_learning_with_inductive_biases.md)
 
-### Adaptive DDoS Detector Design Using Fast Entropy Computation Method
-```console
-@INPROCEEDINGS{5976144,
-  author={G. {No} and I. {Ra}},
-  booktitle={2011 Fifth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing}, 
-  title={Adaptive DDoS Detector Design Using Fast Entropy Computation Method}, 
-  year={2011},
-  volume={},
-  number={},
-  pages={86-93},}
-```
-[Check my documentation]()
-
 ### Auto-Keras: An Efficient Neural Architecture Search System
 ```console
 @ARTICLE{2018arXiv180610282J,
@@ -84,3 +71,16 @@ archivePrefix = {arXiv},
 }
 ```
 [Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/Communication_Efficient_Learning_of_Deep_Networks_from_Decentralized_Data.md)
+
+### Adaptive DDoS Detector Design Using Fast Entropy Computation Method
+```console
+@INPROCEEDINGS{5976144,
+  author={G. {No} and I. {Ra}},
+  booktitle={2011 Fifth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing}, 
+  title={Adaptive DDoS Detector Design Using Fast Entropy Computation Method}, 
+  year={2011},
+  volume={},
+  number={},
+  pages={86-93},}
+```
+[Check my documentation](https://github.com/AmanPriyanshu/literate-train/blob/master/)
